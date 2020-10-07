@@ -3,6 +3,6 @@
     "toc": "doctoc README.md"
   },
   "devDependencies": {
-    "doctoc": "^1.0.0"
+    "doctoc": "^1.1.0"
   }
 }
